@@ -1,3 +1,5 @@
+<div align="center">
+
 ## olá! me chamo gabriella🐈‍⬛
 
 <div align="center">
@@ -17,14 +19,11 @@
 </div>
 
 
-###
+#
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-</div>
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
-###
+<h3 align="center">Se conecte comigo:</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabriellatcavalcanti@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/gzbriellaaac/)
